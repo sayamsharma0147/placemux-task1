@@ -1,0 +1,2 @@
+timestamp,run_id,model,strategy,seed,val_accuracy,val_f1
+2026-06-20T17:58:19,smoke_test_dummy,DummyClassifier,most_frequent,42,0.6228,0.7676
